@@ -2,6 +2,8 @@
 
 export default function sideNavbar () {
     return (
-        <h1> sidenavbar </h1>
+        <div>
+            <h1> sidenavbar </h1>
+        </div>
     );
 }
